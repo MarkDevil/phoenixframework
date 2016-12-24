@@ -1,9 +1,9 @@
 package org.phoenix.dao;
 
-import java.util.List;
-
 import org.phoenix.basic.impl.HibernateDaoImpl;
 import org.phoenix.model.CaseBean;
+
+import java.util.List;
 
 /**
  * 用例操作dao
