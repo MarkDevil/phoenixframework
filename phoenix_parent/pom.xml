@@ -165,11 +165,7 @@
 		<artifactId>commons-discovery</artifactId>
 		<version>0.4</version>
 	</dependency>
-	<dependency>
-		<groupId>axis</groupId>
-		<artifactId>axis-wsdl4j</artifactId>
-		<version>1.5.1</version>
-	</dependency>
+
 	<dependency>
 		<groupId>axis</groupId>
 		<artifactId>axis-jaxrpc</artifactId>
@@ -659,6 +655,12 @@
 		  <groupId>com.github.detro</groupId>
 		  <artifactId>phantomjsdriver</artifactId>
 		  <version>1.2.0</version>
+	  </dependency>
+
+	  <dependency>
+		  <groupId>axis</groupId>
+		  <artifactId>axis-wsdl4j</artifactId>
+		  <version>1.5.1</version>
 	  </dependency>
 
   </dependencies>
